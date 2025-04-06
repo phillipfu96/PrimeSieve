@@ -33,7 +33,7 @@ The program performs the following steps:
 1.  Open a terminal or command prompt in the executable's directory
 2. Run it, passing the upper limit as a parameter to the command:
 ```bash
-list_prime <upper limit>
+list_prime.exe [upper-limit]
 ```
 
 
